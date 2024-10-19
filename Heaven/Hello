@@ -1,0 +1,2 @@
+int intNum = 0;
+WriteLine("Hello " + intNum);
