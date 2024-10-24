@@ -1,5 +1,5 @@
-txt = "My name is Ståle"
+txt = input("Input: ")
 
-x = txt.encode(encoding="UTF-16",errors="xmlcharrefreplace")
+x = txt.encode(encoding="utf-32",errors="xmlcharrefreplace")
 
 print(x)
